@@ -1,2 +1,0 @@
-mkdir -p .github/workflows data src dashboard
-touch requirements.txt src/etl_pipeline.py .github/workflows/daily_rates_etl.yml
